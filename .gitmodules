@@ -1,0 +1,3 @@
+[submodule "external/greetlib"]
+	path = external/greetlib
+	url = https://github.com/lbrabec/rpm-guide-greetlib.git
